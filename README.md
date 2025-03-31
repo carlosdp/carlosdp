@@ -1,12 +1,17 @@
-## Current (Public) Projects
+## 🚀 Current (Public) Projects
 
+### Raza (today)
+
+_error: Classified_
+
+### Open Source
 - [dioxus-in-bevy](https://github.com/carlosdp/dioxus-in-bevy): an experimental framework for using Dioxus' VDOM and state management inside Bevy
 
 _Wanna reach out? DM me on [Twitter/X](https://x.com/the_carlosdp)_
 
-## Interest Areas
+## 🤓 Interest Areas
 
-### Generative User Interfaces
+### ✨ Generative User Interfaces
 
 I strongly believe the future of user interfaces in computing will look like:
 
@@ -18,7 +23,7 @@ We're probably also closer to that future than we think, but the last 10% (mainl
 
 What do apps look like / feel like in a world where the UI isn't predefined by their developers? What becomes better / worse? What are the new challenges this new paradigm brings for developers and users, and what does "design" look like in this new world?
 
-### Better Broadcasting for E-Sports
+### 📺 Better Broadcasting for E-Sports
 
 It should follow that as video games become more and more popular and pervasive, the audience of people that watch competitive gamers should grow. That _has_ been happening, but I think there's something holding this field back that has been bugging me, and that is the broadcast experience.
 
@@ -28,13 +33,13 @@ You don't need to be an expert in (American 🇺🇸) football to enjoy watching
 
 I think that generative AI provides an opportunity to, in real time, create media that makes "what is going on in the game right now" more approachable to viewers, and expand the audience of people that would enjoy watching experts play a game of Starcraft or Valorant, for example.
 
-### Robotics (WIP)
+### 🦾 Robotics (WIP)
 
 I think this new resurgence in results in robotics, stemming largely from integration with VLMs and other transformers, is really cool. I've wanted to work on hardware projects for a while ("something _real_, actually _in the world_"), but my career has almost exclusively been in software thus far.
 
 I'm slowly building up skills at home to work on hardware projects and robotics in the future. I think there's a large field of areas that are now more practical to solve problems in with robotics, and I want to be part of that.
 
-## Past
+## ⏰ Past
 
 In quick summary (past to present):
 
@@ -74,7 +79,3 @@ Turns out people only needed Zoom 🤷‍♂️
 A pivot from Garnet, building community software for DAOs, specifically on top of Ethereum.
 
 Was fun, but yea DAOs didn't really happen (at least not yet)
-
-### Raza (today)
-
-_error: Classified_
