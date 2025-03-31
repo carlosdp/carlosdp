@@ -2,7 +2,7 @@
 
 - [dioxus-in-bevy](https://github.com/carlosdp/dioxus-in-bevy): an experimental framework for using Dioxus' VDOM and state management inside Bevy
 
-_Wanna reach out? DM me on [Twitter/X](https://x.com/the_carlosdp)
+_Wanna reach out? DM me on [Twitter/X](https://x.com/the_carlosdp)_
 
 ## Interest Areas
 
