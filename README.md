@@ -11,6 +11,10 @@ _Wanna reach out? DM me on [Twitter/X](https://x.com/the_carlosdp)_
 
 ## 🤓 Interest Areas
 
+### 🦾 Robotics
+
+I think this new resurgence in results in robotics, stemming largely from integration with VLMs and other transformers, is really cool. I've wanted to work on hardware projects for a while ("something _real_, actually _in the world_"). I've been building up skills to work on robotics AI, specifically interested in leveraging simulation and other creative methods to expand the set of high-quality demonstration data used to train new models. I think there's a large field of areas that are now more practical to solve problems in with robotics, and that this set of technologies will have massive impacts on the world.
+
 ### ✨ Generative User Interfaces
 
 I strongly believe the future of user interfaces in computing will look like:
@@ -32,12 +36,6 @@ There's just something that feels "disconnected" from the action when broadcaste
 You don't need to be an expert in (American 🇺🇸) football to enjoy watching a game of football, or to understand when something really impressive just happened (someone just caught a really long pass, for example). In video games, the visuals we see are rarely as simple as a field where one team is trying to bring a ball to one side of the field, and the other team wants it to go the other direction.
 
 I think that generative AI provides an opportunity to, in real time, create media that makes "what is going on in the game right now" more approachable to viewers, and expand the audience of people that would enjoy watching experts play a game of Starcraft or Valorant, for example.
-
-### 🦾 Robotics (WIP)
-
-I think this new resurgence in results in robotics, stemming largely from integration with VLMs and other transformers, is really cool. I've wanted to work on hardware projects for a while ("something _real_, actually _in the world_"), but my career has almost exclusively been in software thus far.
-
-I'm slowly building up skills at home to work on hardware projects and robotics in the future. I think there's a large field of areas that are now more practical to solve problems in with robotics, and I want to be part of that.
 
 ## ⏰ Past
 
