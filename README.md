@@ -1,8 +1,8 @@
 ## 🚀 Current (Public) Projects
 
-### Raza (today)
+### [Destroy Robots](https://destroyrobots.com)
 
-_error: Classified_
+A platform for Robotics AI startups to easily get started with training robotics policies, running simulations etc. from a web-based, collaborative platform.
 
 ### Open Source
 - [dioxus-in-bevy](https://github.com/carlosdp/dioxus-in-bevy): an experimental framework for using Dioxus' VDOM and state management inside Bevy
